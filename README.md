@@ -9,7 +9,7 @@ In this repo you'll find:
 ---
 
 
-The demo and all code for using active learning with MaskAL can be found in google colabs:
+The demo for using active learning with MaskAL and Detectron2 can be found in Google Colabs:
 https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
 
 A more detailed walkthrough with a more theoretical focus on active learning can be found here:
