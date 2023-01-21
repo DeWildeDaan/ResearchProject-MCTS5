@@ -1,5 +1,14 @@
 # ResearchProject-MCTS5
 
+In this repo you'll find:
+- All files used for the demo (Data, labels, config files).
+- All results I got.
+- The python script used to select the correct labels to upload to google colabs when MaskAL asks for them.
+
+
+---
+
+
 The demo and all code for using active learning with MaskAL can be found in google colabs:
 https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
 
