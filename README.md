@@ -16,7 +16,10 @@ A more detailed walkthrough with a more theoretical focus on active learning can
 
 ---
 
-In the demo we compared training a Detectron2 model with Active Learning to training a model with random image sampling.
+In the demo we compared training a Detectron2 model with active learning to training a model with random image sampling. 
+You can see we get better results much faster and with less images when using active learning.
+Green = mAP when using active learning.
+Red = mAP when using random image sampling.
 ![maskAL_graph](./Results/Plot_AL_vs_Random.jpg?raw=true)
 
 You can find all results in the 'Results' folder.
