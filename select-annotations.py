@@ -1,4 +1,7 @@
 import os, shutil
+#The demo and all code for using active learning with MaskAL can be found in google colabs:
+#https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
+#You can find my results in the 'Results' folder.
 
 #First unzip the 'AL-demo-files.zip' file.
 #Paste the given picture names from the MaskAL output between ''' '''.
