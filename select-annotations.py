@@ -3,7 +3,7 @@ import os, shutil
 #https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
 #You can find my results in the 'Results' folder.
 
-#First unzip the 'AL-demo-files.zip' file.
+#Make sure to unzip the 'AL-demo-files.zip' file before you start.
 #Paste the given picture names from the MaskAL output between ''' '''.
 #Next, run the python script, the right labels for the given pictures will appear in the created 'Labels' folder.
 PICTURES = '''
