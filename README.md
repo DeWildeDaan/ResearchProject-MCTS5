@@ -1,5 +1,16 @@
 # ResearchProject-MCTS5
 
+
+The demo for using active learning with MaskAL and Detectron2 can be found in Google Colabs:
+https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
+
+A more detailed walkthrough about this demo with a more theoretical focus on active learning can be found here:
+....
+
+
+---
+
+
 In this repo you'll find:
 
 - User manual in the 'Manuals' folder.
@@ -11,13 +22,6 @@ In this repo you'll find:
 
 ---
 
-The demo for using active learning with MaskAL and Detectron2 can be found in Google Colabs:
-https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
-
-A more detailed walkthrough about this demo with a more theoretical focus on active learning can be found here:
-....
-
----
 
 In the demo we compared training a Detectron2 model with active learning to training a model with random image sampling. 
 You can see we get better results much faster and with less images when using active learning.
