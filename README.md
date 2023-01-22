@@ -2,9 +2,12 @@
 
 In this repo you'll find:
 
-- All files used for the demo (Data, labels, config files).
-- All results I got.
-- The python script used to select the correct labels to upload to google colabs when MaskAL asks for them.
+- User manual in the 'Manuals' folder.
+- Installation manual in the 'Manuals' folder.
+- All files used for the demo (Data, labels, config files) in the 'AL-demo-files.zip' folder.
+- All results I got in the 'Results' folder.
+- The python script used to select the correct labels to upload to google colabs (select-annotations.py).
+
 
 ---
 
@@ -24,4 +27,3 @@ Green = mAP when using active learning.
 Red = mAP when using random image sampling.
 ![maskAL_graph](./Results/Plot_AL_vs_Random.jpg?raw=true)
 
-You can find all results in the 'Results' folder.
