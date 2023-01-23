@@ -43,7 +43,7 @@ In this example, our model trained with active learning already had a better res
 
 
 
-#### What is mAP (mean average precision)?
+### What is mAP (mean average precision)?
 mAP formula is based on the following sub metrics:
 
 - Confusion Matrix
