@@ -42,8 +42,6 @@ y-axis: the mean average precision of the model
 In this example, our model trained with active learning already had a better result with only 75% of our training data and had maximum results with 83,3% of our total training data.
 
 
----
-
 
 #### What is mAP (mean average precision)?
 mAP formula is based on the following sub metrics:
