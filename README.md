@@ -1,16 +1,5 @@
 # ResearchProject-MCTS5
 
-
-The demo for using active learning with MaskAL and Detectron2 can be found in Google Colabs:
-https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
-
-If you'd like to learn more about active learning and how the MaskAL software works, you can read my blogpost here:
-....
-
-
----
-
-
 In this repo you'll find:
 
 - User manual in the 'Manuals' folder.
@@ -18,6 +7,16 @@ In this repo you'll find:
 - All files used for the demo (Data, labels, config files) in the 'AL-demo-files.zip' folder.
 - All results I got in the 'Results' folder.
 - The python script used to select the correct labels to upload to google colabs (select-annotations.py).
+
+
+---
+
+
+The code for using active learning with MaskAL and Detectron2 can be found in Google Colabs:
+https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
+
+If you'd like to learn more about active learning and how the MaskAL software works, you can read my blogpost here:
+....
 
 
 ---
