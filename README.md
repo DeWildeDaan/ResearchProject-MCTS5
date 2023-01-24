@@ -7,6 +7,7 @@ In this repo you'll find:
 - All files used for the demo (Data, labels, config files) in the 'AL-demo-files.zip' folder.
 - All results I got in the 'Results' folder.
 - The python script used to select the correct labels to upload to google colabs (select-annotations.py).
+- (A backup of the Google Colab notebook)
 
 
 ---
