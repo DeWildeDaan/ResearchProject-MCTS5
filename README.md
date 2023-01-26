@@ -17,7 +17,7 @@ The code for using active learning with MaskAL and Detectron2 can be found in Go
 https://colab.research.google.com/drive/1reLQL3lLC-KrqVCQT9PAd6ouKhmDPDwN?usp=sharing
 
 If you'd like to learn more about active learning and how the MaskAL software works, you can read my blogpost here:
-....
+https://medium.com/@daandw5/active-learning-what-is-it-and-how-does-it-work-c002f52ff3f2?source=friends_link&sk=80a47662dfd07c06852b5c80734494e4
 
 
 ---
